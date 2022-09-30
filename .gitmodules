@@ -1,3 +1,4 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/PengYanY/gitmodule_test_lib.git
+	branch = dev
